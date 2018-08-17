@@ -1,8 +1,4 @@
 hola
-<<<<<<< HEAD
-Daniel
-scsadfasd
-=======
 jhopes
 Samuel
 otra vez jhopes
@@ -10,8 +6,3 @@ Joe David
 desde el local jhopes
 desde el repositorio remoto
 otra vez desde el local jhopes
->>>>>>> 0fa642f027d4c8a17d96b07d57f970d65053e3f7
-
-
-
-hola soy Daniel
