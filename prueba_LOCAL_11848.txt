@@ -1,10 +1,11 @@
 hola
+<<<<<<< HEAD
+<<<<<<< HEAD
 holiiis
 holiwiiis
 richitard
 impotentes
 buuuuuuuuuu
-<<<<<<< HEAD
 jhopes
 Samuel
 otra vez jhopes
@@ -18,10 +19,3 @@ jajajajajareeed
 hollluuuus
 =======
 holaa probando soy kehm
-holaaaaaaaa
->>>>>>> 7b8f2850d238da6e777c26259b501b30f7bf0e3e
-
-
-
-holaaaa modificandoo
->>>>>>> 88fdf388b2cd96441db5c666f6946f4ab1807e6e
