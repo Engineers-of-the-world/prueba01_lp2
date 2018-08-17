@@ -1,0 +1,38 @@
+hola
+<<<<<<< HEAD
+<<<<<<< HEAD
+holiiis
+holiwiiis
+richitard
+impotentes
+buuuuuuuuuu
+<<<<<<< HEAD
+=======
+=======
+adsfopysdzviopigtopiufrdghl�k vc��-�pdf
+>>>>>>> 7b8f2850d238da6e777c26259b501b30f7bf0e3e
+=======
+>>>>>>> 88fdf388b2cd96441db5c666f6946f4ab1807e6e
+jhopes
+Samuel
+otra vez jhopes
+Joe David
+desde el local jhopes
+desde el repositorio remoto
+
+bla bla blaaa
+otra vez desde el local jhopes
+jajajajajareeed
+hollluuuus
+=======
+holaa probando soy kehm
+<<<<<<< HEAD
+=======
+>>>>>>> 34a71ad87d4fa1c55ac62e1591a9014642768f69
+holaaaaaaaa
+>>>>>>> 7b8f2850d238da6e777c26259b501b30f7bf0e3e
+
+
+
+holaaaa modificandoo
+>>>>>>> 88fdf388b2cd96441db5c666f6946f4ab1807e6e

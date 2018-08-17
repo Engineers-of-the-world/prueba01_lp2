@@ -1,5 +1,6 @@
 hola
 <<<<<<< HEAD
+<<<<<<< HEAD
 Johan chumacero
 estudiante de ingenieria 
 de sistemas 
@@ -9,3 +10,4 @@ vamos a coipar las mejores
 cosas para poder cambiar al mundo
 somos los mejores
 vamos para adelante sin parar 
+avanza sin deteberte
