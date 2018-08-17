@@ -1,20 +1,27 @@
 hola
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Daniel
 scsadfasd
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 1a48369a2dbf926afe66dd1dd6e0211de317834f
 holiiis
 holiwiiis
 richitard
 impotentes
 buuuuuuuuuu
+<<<<<<< HEAD
 =======
 adsfopysdzviopigtopiufrdghlñk vc´ñ-ñpdf
 >>>>>>> 7b8f2850d238da6e777c26259b501b30f7bf0e3e
 >>>>>>> cf647c672fdd631f4490cbf6cce3091dd255c471
 =======
+=======
+<<<<<<< HEAD
+>>>>>>> 1a48369a2dbf926afe66dd1dd6e0211de317834f
 jhopes
 Samuel
 otra vez jhopes
@@ -25,6 +32,7 @@ desde el repositorio remoto
 bla bla blaaa
 otra vez desde el local jhopes
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 0fa642f027d4c8a17d96b07d57f970d65053e3f7
 
 
@@ -33,14 +41,15 @@ hola soy Daniel
 =======
 <<<<<<< HEAD
 >>>>>>> 0fa642f027d4c8a17d96b07d57f970d65053e3f7
+=======
+>>>>>>> 1a48369a2dbf926afe66dd1dd6e0211de317834f
 jajajajajareeed
 hollluuuus
 =======
-
 holaa probando soy kehm
->>>>>>> 34a71ad87d4fa1c55ac62e1591a9014642768f69
 holaaaaaaaa
 >>>>>>> 7b8f2850d238da6e777c26259b501b30f7bf0e3e
+<<<<<<< HEAD
 >>>>>>> cf647c672fdd631f4490cbf6cce3091dd255c471
 
 
@@ -49,3 +58,10 @@ holis my name is Daniel xd
 ------------------------------
 ------------------------------
 dsgfsdfsfsdfs
+=======
+
+
+
+holaaaa modificandoo
+>>>>>>> 88fdf388b2cd96441db5c666f6946f4ab1807e6e
+>>>>>>> 1a48369a2dbf926afe66dd1dd6e0211de317834f
